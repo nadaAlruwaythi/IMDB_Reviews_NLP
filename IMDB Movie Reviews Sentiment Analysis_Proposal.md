@@ -26,3 +26,4 @@ Our plan in the project is to:
 * Sklean
 
 
+This project was done in pairs @shami-am & @nadaAlruwaythi
